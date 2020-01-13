@@ -5,7 +5,6 @@
 
 **_Started 1/12/2020_**
 
-
 # Project Description
 
 Create a program for simple and random character creation based on preset parameters or on user
@@ -22,5 +21,9 @@ customization or changes due to game progress.
 - Output
 --- Output random character to a file or GUI
 
-# Detailed Creation Process
-TEMP TEXT
+# Creation Process
+- Step 1: Choose a race.
+- Step 2: Choose a class.
+- Step 3: Determine ability scores
+- Step 4: Describe Character
+- Step 5: Choose Equipment
