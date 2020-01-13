@@ -1,20 +1,18 @@
 # randomCharacterGenerator
 Random Character Generator for Dungeons and Dragons 5th Edition
 
-**** Random Character Generator ****
-**** Created by Mike Millar ****
-**** Started 1/12/2020 ****
+** Random Character Generator **
+** Created by Mike Millar **
+** Started 1/12/2020 **
 
 
-Project Description
-----------------------------------------------------------------------------------------------
+# Project Description
+
 Create a program for simple and random character creation based on preset parameters or on user
 defined parameters. Character can be output to a GUI or file and be saved or loaded for later
 customization or changes due to game progress.
-----------------------------------------------------------------------------------------------
 
-Project Goals
-----------------------------------------------------------------------------------------------
+# Project Goals
 - Data Collection
 --- Create Data Structure For all playable options (Not including Homebrew ** at this time ** )
 - Basic Setup Options
@@ -23,9 +21,6 @@ Project Goals
 --- Libraries of names / traits / portraits / ect
 - Output
 --- Output random character to a file or GUI
-----------------------------------------------------------------------------------------------
 
-Detailed Creation Process
-----------------------------------------------------------------------------------------------
+# Detailed Creation Process
 TEMP TEXT
-----------------------------------------------------------------------------------------------
