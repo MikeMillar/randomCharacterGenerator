@@ -1,9 +1,9 @@
-# randomCharacterGenerator
-Random Character Generator for Dungeons and Dragons 5th Edition
+# Random Character Generator DND 5E
+**Random Character Generator for Dungeons and Dragons 5th Edition**
 
-** Random Character Generator **
-** Created by Mike Millar **
-** Started 1/12/2020 **
+**_Created by Mike Millar_**
+
+**_Started 1/12/2020_**
 
 
 # Project Description
